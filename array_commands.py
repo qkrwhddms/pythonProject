@@ -17,4 +17,4 @@ def solution(array, commands):
         # 정렬된 데이터의 K번째 값 가져오기
         answer.append(arr_list[commands[i][2]-1])
 
-        return answer
+    return answer
